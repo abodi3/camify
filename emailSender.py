@@ -9,9 +9,9 @@ from email.mime.text import MIMEText
 
 
 def notify(obj): #notifiy by email
-    emailFrom = "camify.group7@gmail.com"
+    emailFrom = "group@gmail.com"
 
-    emailTo = "albert.offei@gmail.com"
+    emailTo = "members@gmail.com"
 
     file = obj #Takes the string passed when called and places it in file
 
